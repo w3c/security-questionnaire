@@ -8,6 +8,7 @@ Repository: w3c/security-questionnaire
 Level: None
 Editor: Theresa O’Connor, w3cid 40614, Apple Inc. https://apple.com, hober@apple.com
 Editor: Peter Snyder, w3cid 109401, Brave Software https://brave.com, pes@brave.com
+Editor: Simone Onofri, w3cid 38211, W3C https://w3.org, simone@w3.org
 Former Editor: Jason Novak, Apple Inc., https://apple.com
 Former Editor: Lukasz Olejnik, Independent researcher, https://lukaszolejnik.com
 Former Editor: Mike West, Google Inc., mkwst@google.com
