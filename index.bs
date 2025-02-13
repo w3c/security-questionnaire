@@ -2,7 +2,7 @@
 Title: Self-Review Questionnaire: Security and Privacy
 Status: ED
 TR: https://www.w3.org/TR/security-privacy-questionnaire/
-ED: https://w3ctag.github.io/security-questionnaire/
+ED: https://w3c.github.io/security-questionnaire/
 Shortname: security-privacy-questionnaire
 Repository: w3c/security-questionnaire
 Level: None
