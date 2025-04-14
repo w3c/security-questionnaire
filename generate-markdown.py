@@ -30,7 +30,7 @@ class MarkdownGenerator:
 
 The full questionnaire is at https://w3c.github.io/security-questionnaire/.
 
-For your convenience, a copy of the questionnaire's questions is included here in Markdown, so you can easily include your answers in an [explainer](https://tag.w3.org/explainers/).
+For your convenience, a copy of the questionnaire's questions is included here in Markdown, so you can easily include your answers in an [explainer](https://w3ctag.github.io/explainer-explainer/).
 
 ---
 """, file=outfile)
