@@ -1374,11 +1374,13 @@ Mike West
 wrote the initial version of this document
 and edited it for a number of years.
 Yan Zhu
-took over from Mike and, in turn,
+took over from Mike.
 Jason Novak
 and
 Lukasz Olejnik
-took it over from her.
+took it over from her,
+and the TAG as a whole took it over from them
+before handing it over to the current maintainers.
 The current editors are indebted to all of their hard work.
 We hope we haven't made it (much) worse.
 
