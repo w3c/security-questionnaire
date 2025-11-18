@@ -1326,6 +1326,16 @@ requirements in specifications.  For example, in [[DOTY-GEOLOCATION]], it was
 found that none of the studied websites informed users of their privacy
 practices before the site prompted for location.
 
+# Appendix A: Markdown Template # {#template}
+
+See this rendered at
+[https://github.com/w3c/security-questionnaire/blob/main/questionnaire.markdown](https://github.com/w3c/security-questionnaire/blob/main/questionnaire.markdown).
+
+<pre class=include-code>
+path: questionnaire.markdown
+highlight: markdown
+</pre>
+
 <h2 id="acknowledgements" class="no-num">Acknowledgements</h2>
 
 Many thanks to
