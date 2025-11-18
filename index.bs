@@ -204,7 +204,7 @@ which can then be safely exposed to the origin. [[WEBAUTHN]]
 
 Personal information, PII, or their derivatives
 should not be exposed to origins
-without [meaningful user consent](https://w3ctag.github.io/design-principles/#consent).
+without [[DESIGN-PRINCIPLES#user-intent|meaningful user consent]].
 Many APIs
 use the Permissions API to acquire meaningful user consent.
 [[PERMISSIONS]]
@@ -234,7 +234,7 @@ without a separate permissions prompt.
 See also
 
 * [[#user-mediation]]
-* [[DESIGN-PRINCIPLES#consent]]
+* [[DESIGN-PRINCIPLES#user-intent]]
 
 <h3 class=question id="sensitive-data">
   How do the features in your specification deal with sensitive information?
@@ -467,7 +467,7 @@ If features in your spec expose such data
 and does not define adequate mitigations,
 you should ensure that such information
 is not revealed to origins
-without [[DESIGN-PRINCIPLES#consent|meaningful user consent]],
+without [[DESIGN-PRINCIPLES#user-intent|meaningful user consent]],
 and
 you should clearly describe this
 in your specification's Security and Privacy Considerations sections.
